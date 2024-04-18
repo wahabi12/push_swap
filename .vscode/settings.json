@@ -1,0 +1,20 @@
+{
+    "files.associations": {
+        "ratio": "c",
+        "algorithm": "c",
+        "__config": "c",
+        "__errc": "c",
+        "__hash_table": "c",
+        "__locale": "c",
+        "__tuple": "c",
+        "bitset": "c",
+        "ios": "c",
+        "locale": "c",
+        "chrono": "c",
+        "__node_handle": "c",
+        "push_swap.h": "c",
+        "iterator": "c",
+        "cstring": "c",
+        "sstream": "c"
+    }
+}
